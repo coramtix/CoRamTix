@@ -1,16 +1,52 @@
-## Hi there 👋
+# 🌐 CoRamTix Hosting
 
-<!--
-**coramtix/CoRamTix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Reliable, fast, and affordable hosting for **games, bots, and VPS** – powered by CoRamTix.  
+We provide seamless hosting solutions with **24/7 uptime, instant setup, and a 24-hour refund policy**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Services We Offer
+
+### 🎮 Game Hosting
+- Minecraft, Rust, CS:GO, and more  
+- Instant deployment  
+- Low latency servers  
+
+### 🤖 Bot Hosting
+- Nano, Mega, and Giga plans  
+- Perfect for Discord, Telegram, and automation bots  
+- Scalable resources  
+
+### 💻 VPS Hosting
+- KVM-based servers  
+- Full root access  
+- Customizable plans  
+
+---
+
+## ✅ Why Choose CoRamTix?
+- 🔒 Secure & reliable hosting  
+- ⚡ Instant server activation  
+- 📈 Scalable resources on demand  
+- 💬 24/7 customer support  
+- 💵 24-hour refund guarantee  
+
+---
+
+## 📦 Getting Started
+1. Visit our website: [coramtix.in](https://coramtix.in)  
+2. Choose your hosting plan  
+3. Deploy your server in minutes 🚀  
+
+---
+
+## 📞 Support
+- 🌍 Website: [coramtix.in](https://coramtix.in)  
+- 💬 Discord: [Join Here](https://discord.gg/)  
+- 📧 Email: support@coramtix.in  
+
+---
+
+## 📜 License
+This project is maintained by **CoRamTix Hosting**.  
+All rights reserved © 2025.
