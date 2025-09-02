@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg" alt="CoRamTix Logo" width="200"/>
+  <img src="favicon-96x96.png" alt="CoRamTix Logo" width="200"/>
 </p>
 
 # CoRamTix Hosting  
