@@ -1,30 +1,34 @@
-# 🌐 CoRamTix
+<p align="center">
+  <img src="logo.png" alt="CoRamTix Logo" width="200"/>
+</p>
+
+# CoRamTix Hosting  
 
 Reliable, fast, and affordable hosting for **games, bots, and VPS** – powered by CoRamTix.  
 We provide seamless hosting solutions with **24/7 uptime, instant setup, and a 24-hour refund policy**.
 
 ---
 
-## 🚀 Services We Offer
+## 🚀 Services We Offer  
 
-### 🎮 Game Hosting
+### 🎮 Game Hosting  
 - Minecraft, Rust, CS:GO, and more  
 - Instant deployment  
 - Low latency servers  
 
-### 🤖 Bot Hosting
+### 🤖 Bot Hosting  
 - Nano, Mega, and Giga plans  
 - Perfect for Discord, Telegram, and automation bots  
 - Scalable resources  
 
-### 💻 VPS Hosting
+### 💻 VPS Hosting  
 - KVM-based servers  
 - Full root access  
 - Customizable plans  
 
 ---
 
-## ✅ Why Choose CoRamTix?
+## ✅ Why Choose CoRamTix?  
 - 🔒 Secure & reliable hosting  
 - ⚡ Instant server activation  
 - 📈 Scalable resources on demand  
@@ -33,20 +37,20 @@ We provide seamless hosting solutions with **24/7 uptime, instant setup, and a 2
 
 ---
 
-## 📦 Getting Started
+## 📦 Getting Started  
 1. Visit our website: [coramtix.in](https://coramtix.in)  
 2. Choose your hosting plan  
 3. Deploy your server in minutes 🚀  
 
 ---
 
-## 📞 Support
+## 📞 Support  
 - 🌍 Website: [coramtix.in](https://coramtix.in)  
 - 💬 Discord: [Join Here](https://coramtix.in/discord)  
 - 📧 Email: support@coramtix.in  
 
 ---
 
-## 📜 License
+## 📜 License  
 This project is maintained by **CoRamTix Hosting**.  
 All rights reserved © 2025.
