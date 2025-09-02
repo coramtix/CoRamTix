@@ -1,4 +1,4 @@
-# 🌐 CoRamTix Hosting
+# 🌐 CoRamTix
 
 Reliable, fast, and affordable hosting for **games, bots, and VPS** – powered by CoRamTix.  
 We provide seamless hosting solutions with **24/7 uptime, instant setup, and a 24-hour refund policy**.
