@@ -42,7 +42,7 @@ We provide seamless hosting solutions with **24/7 uptime, instant setup, and a 2
 
 ## 📞 Support
 - 🌍 Website: [coramtix.in](https://coramtix.in)  
-- 💬 Discord: [Join Here](https://discord.gg/)  
+- 💬 Discord: [Join Here](https://coramtix/discord)  
 - 📧 Email: support@coramtix.in  
 
 ---
